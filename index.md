@@ -1,8 +1,6 @@
 I have a *blog*!
 
-Hello and welcome to this blog. Edit the `index.md` file to change this content. You can include images:
-
-![Image of fast.ai logo](images/logo.png)
+Hello and welcome to this blog. Edit the `index.md` file to change this content.
 
 ## This is a title
 
