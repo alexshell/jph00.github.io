@@ -19,7 +19,7 @@ plugins:
   - jekyll-feed
 
 minima:
-  skin: solarized
+  skin: solarized-dark
 
 titles_from_headings:
   enabled:     true
